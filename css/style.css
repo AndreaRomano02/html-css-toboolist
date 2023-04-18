@@ -101,6 +101,7 @@ main {
   font-size: 0.9rem;
   padding: 5px;
   display: inline-block;
+  cursor: pointer;
 }
 
 /* utility */
