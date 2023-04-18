@@ -11,6 +11,21 @@ body {
   padding-top: 10px;
 }
 
+.bg-watergreen {
+  background-color: rgb(36, 255, 200);
+  height: 95vh;
+  padding-top: 30px;
+}
+
+.container {
+  max-width: 50%;
+  height: 800px;
+  margin: 0 auto;
+  background-color: white;
+  border-radius: 1%;
+
+}
+
 /* header */
 #logo {
   margin-left: 30px;
