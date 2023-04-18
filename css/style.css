@@ -23,7 +23,6 @@ body {
   margin: 0 auto;
   background-color: white;
   border-radius: 1%;
-
 }
 
 /* header */
@@ -39,4 +38,26 @@ body {
   font-size: 3rem;
   font-weight: 900;
   vertical-align: middle;
+}
+
+/* nav */
+nav {
+  padding: 10px 25px;
+  border-bottom: 1px solid lightgray;
+}
+
+.format-button {
+  font-size: 1.1rem;
+  border-radius: 10%;
+  border: none;
+  padding: 10px;
+}
+
+/* utility */
+.bg-blue {
+  background-color: #1e90ff;
+}
+
+.white-text {
+  color: white;
 }
