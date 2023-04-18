@@ -27,6 +27,7 @@ body {
 
 ul {
   list-style: none;
+  margin: 50px 0;
 }
 
 h2 {
@@ -68,7 +69,7 @@ nav {
 
 /* main */
 main {
-  margin: 50px 30px;
+  margin: 0 30px;
 
 }
 
@@ -78,7 +79,7 @@ main {
 }
 
 .check-list {
-  border: 1px solid green;
+  border: 1px solid;
   width: 20px;
   height: 20px;
   border-radius: 50%;
@@ -115,6 +116,30 @@ main {
   color: green;
 }
 
+.wrong {
+  color: red;
+}
+
 .bg-lightblue {
   background-color: #45abea;
+}
+
+.bg-purple {
+  background-color: #9c72e4;
+}
+
+.bg-cyan {
+  background-color: #64c0a9;
+}
+
+.bg-orange {
+  background-color: #f19100;
+}
+
+.bg-pink {
+  background-color: #d85c9b;
+}
+
+.bg-yellow {
+  background-color: #b0c926;
 }
